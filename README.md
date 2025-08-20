@@ -32,7 +32,7 @@
 
 ###
 
-<img align="left" height="500" src="https://i.pinimg.com/1200x/d5/b3/1d/d5b31df651b31c326d56a19fe44e5b79.jpg"  />
+<img align="left" height="400" src="https://i.pinimg.com/1200x/d5/b3/1d/d5b31df651b31c326d56a19fe44e5b79.jpg"  />
 
 ###
 
@@ -45,5 +45,19 @@
 ###
 
 <p align="left"></p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RanvirxD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=RanvirxD&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
