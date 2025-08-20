@@ -32,14 +32,20 @@
 
 ###
 
-<img align="left" height="400" src="https://i.pinimg.com/1200x/d5/b3/1d/d5b31df651b31c326d56a19fe44e5b79.jpg"  />
+<img align="left" height="350" src="https://i.pinimg.com/1200x/d5/b3/1d/d5b31df651b31c326d56a19fe44e5b79.jpg"  />
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="ranvirsingh.15h@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ranvir-singh-667688265/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Sore_wa_neko" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
@@ -49,7 +55,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanvirxD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RanvirxD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="500" alt="stats graph"  />
 </div>
 
 ###
@@ -57,7 +63,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=RanvirxD&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=RanvirxD&theme=matrix&column=-1&row=1&margin-w=10&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
