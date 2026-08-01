@@ -7,6 +7,7 @@
 [ranvirsingh.15h@gmail.com](mailto:ranvirsingh.15h@gmail.com) &nbsp;·&nbsp;
 [github.com/RanvirxD](https://github.com/RanvirxD) &nbsp;·&nbsp;
 [linkedin.com/in/rait-ranvir-singh](https://linkedin.com/in/rait-ranvir-singh) &nbsp;·&nbsp;
+[ranvirxd.github.io](https://ranvirxd.github.io/) &nbsp;·&nbsp;
 
 </div>
 
@@ -52,5 +53,4 @@ inference — sub-second conversion across 19+ languages. [Live](https://reddito
 
 <img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
-This is a a about me section.
 Do checkout my portfolio : https://ranvirxd.github.io/
