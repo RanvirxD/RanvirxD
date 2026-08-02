@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii.svg" width="360" alt="Ranvir Singh"/>
+<img src="./ascii.svg" width="300" alt="Ranvir Singh"/>
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
