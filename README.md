@@ -5,7 +5,6 @@
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
 [ranvirsingh.15h@gmail.com](mailto:ranvirsingh.15h@gmail.com) &nbsp;·&nbsp;
-[github.com/RanvirxD](https://github.com/RanvirxD) &nbsp;·&nbsp;
 [linkedin.com/in/rait-ranvir-singh](https://linkedin.com/in/rait-ranvir-singh) &nbsp;·&nbsp;
 [ranvirxd.github.io](https://ranvirxd.github.io/) &nbsp;
 
@@ -13,13 +12,7 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> CS undergrad at SGT University, in Gurugram.<br>
-> Small, sharp tools over big vague ideas.
-
-I build fast, test on real users, and kill what doesn't work. Right now that's<br>
-[dsa-versus](https://github.com/RanvirxD) — a real-time competitive coding battle platform<br>
-where you solve against a live opponent on a shared timer. Also [medflow](https://github.com/RanvirxD)<br>
-and [redditor](https://github.com/RanvirxD/redditor), a 19-language code translation engine.
+>I build stuff.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
