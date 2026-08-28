@@ -20,6 +20,10 @@
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
+**[redditor](https://github.com/RanvirxD/redditor)** &nbsp;·&nbsp; <samp>javascript, ast, llm</samp><br>
+Multi-language code translation with an AST-based parser fused with LLM<br>
+inference — sub-second conversion across 19+ languages. [Live](https://redditorcode.vercel.app).
+
 **[dsa-versus](https://github.com/RanvirxD)** &nbsp;·&nbsp; <samp>next.js, react, supabase</samp><br>
 Real-time competitive coding battles: head to head, shared live timer,<br>
 rankings, and a sandboxed judge — state synced live across every client.
@@ -27,10 +31,6 @@ rankings, and a sandboxed judge — state synced live across every client.
 **[medflow](https://github.com/RanvirxD)** &nbsp;·&nbsp; <samp>mongo, node</samp><br>
 Hospital management and referral system, a state-level hackathon finalist.<br>
 Location-aware hospital discovery and live bed, ICU, staff and equipment tracking.
-
-**[redditor](https://github.com/RanvirxD/redditor)** &nbsp;·&nbsp; <samp>javascript, ast, llm</samp><br>
-Multi-language code translation with an AST-based parser fused with LLM<br>
-inference — sub-second conversion across 19+ languages. [Live](https://redditorcode.vercel.app).
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
